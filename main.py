@@ -3,6 +3,7 @@ from subtraction import sub
 from addition import add
 from multplication import multiplication
 
+import pandas as pd 
 if __name__ == "__main__":
     A=6
     B=8
